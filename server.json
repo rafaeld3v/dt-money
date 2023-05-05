@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-04-16T12:33:58.107Z"
+    },
+    {
+      "id": 2,
+      "description": "Hambuguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2023-04-16T12:33:58.107Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1940,
+      "createdAt": "2023-04-16T12:33:58.107Z"
+    },
+    {
+      "description": "Café",
+      "price": 10,
+      "category": "Comida",
+      "type": "outcome",
+      "createdAt": "2023-05-04T14:01:54.025Z",
+      "id": 4
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 7000,
+      "category": "Work",
+      "type": "income",
+      "createdAt": "2023-05-04T14:15:53.042Z",
+      "id": 5
+    }
+  ]
+}
